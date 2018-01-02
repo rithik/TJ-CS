@@ -16,3 +16,9 @@
 [submodule "Artificial-Intelligence-2"]
 	path = Artificial-Intelligence-2
 	url = https://github.com/rithik/Artificial-Intelligence-2
+[submodule "APCS"]
+	path = APCS
+	url = https://github.com/rithik/APCS
+[submodule "Accelerated-CS"]
+	path = Accelerated-CS
+	url = https://github.com/rithik/Accelerated-CS
