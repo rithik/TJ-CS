@@ -1,0 +1,18 @@
+[submodule "Web-App-Dev"]
+	path = Web-App-Dev
+	url = https://github.com/rithik/Web-App-Dev
+[submodule "Mobile-App-Dev"]
+	path = Mobile-App-Dev
+	url = https://github.com/rithik/Mobile-App-Dev
+[submodule "Parallel-Computing-1"]
+	path = Parallel-Computing-1
+	url = https://github.com/rithik/Parallel-Computing-1
+[submodule "Computer-Vision-1"]
+	path = Computer-Vision-1
+	url = https://github.com/rithik/Computer-Vision-1
+[submodule "Artificial-Intelligence-1"]
+	path = Artificial-Intelligence-1
+	url = https://github.com/rithik/Artificial-Intelligence-1
+[submodule "Artificial-Intelligence-2"]
+	path = Artificial-Intelligence-2
+	url = https://github.com/rithik/Artificial-Intelligence-2
