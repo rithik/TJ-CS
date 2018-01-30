@@ -22,3 +22,9 @@
 [submodule "Accelerated-CS"]
 	path = Accelerated-CS
 	url = https://github.com/rithik/Accelerated-CS
+[submodule "Parallel-Computing-2"]
+	path = Parallel-Computing-2
+	url = https://github.com/rithik/Parallel-Computing-2
+[submodule "Computer-Vision-2"]
+	path = Computer-Vision-2
+	url = https://github.com/rithik/Computer-Vision-2
