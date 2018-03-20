@@ -1,25 +1,14 @@
 #!/bin/bash
 
-cd Computer-Vision-1
-git pull origin master
-cd ..
-
-echo Computer Vision 1 Complete
-
 cd Computer-Vision-2
 git pull origin master
 cd ..
 
-echo Computer Vision 2 Complete
-
-cd Parallel-Computing-1
-git pull origin master
-cd ..
-
-echo Parallel Computing 1 Complete
+echo Computer Vision 2 Update Complete
 
 cd Parallel-Computing-2
 git pull origin master
 cd ..
 
-echo Parallel Computing 2 Complete
+echo Parallel Computing 2 Update Complete
+
