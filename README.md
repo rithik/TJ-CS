@@ -1,5 +1,7 @@
 # TJ-CS
 
+This repository contains all of my Computer Science labs that I completed at Thomas Jefferson High School for Science and Technology
+
 ## Updating Submodules
 ```
 cd <SUBMODULE_DIRECTORY>
