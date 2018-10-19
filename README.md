@@ -1,4 +1,4 @@
-# TJ-CS
+# TJHSST CS
 
 I am Rithik Yelisetty, Thomas Jefferson High School Science and Technology Class of 2018. 
 
