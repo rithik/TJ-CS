@@ -1,20 +1,17 @@
 # TJ-CS
 
-This repository contains all of my Computer Science labs that I completed at Thomas Jefferson High School for Science and Technology
+I am Rithik Yelisetty, Thomas Jefferson High School Science and Technology Class of 2018. 
 
-## Updating Submodules
-```
-cd <SUBMODULE_DIRECTORY>
-git pull origin master
-cd ..
-git status
-git add .
-git commit -m "Update Submodule"
-git push origin master
-```
+This repository contains all of my Computer Science labs that I completed while I was at TJ, including:
+- Accelerated CS
+- AP Computer Science
+- Artificial Intelligence 1 
+- Artificial Intelligence 2
+- Mobile App Development
+- Web App Development
+- Parallel Computing 1
+- Parallel Computing 2
+- Computer Vision 1
+- Computer Vision 2
 
-## Adding Submodules
-```
-git submodule add <SUBMODULE_URL>
-```
-
+I have decided to make all of my work private since many of the labs are still used in these classes at TJ. If you would like me to share my repository with you, please email me at rithik@gmail.com.
