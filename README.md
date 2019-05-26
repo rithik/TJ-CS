@@ -14,4 +14,4 @@ This repository contains all of my Computer Science labs that I completed while 
 - Computer Vision 1
 - Computer Vision 2
 
-I have decided to make all of my work private since many of the labs are still used in these classes at TJ. If you would like me to share my repository with you, please email me at rithik@gmail.com.
+I have decided to make all of my work private since many of the labs are still used in these classes at TJ. 
